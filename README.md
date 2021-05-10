@@ -1,4 +1,4 @@
-### Hi, 👋
+### Hi, I'm Carolina Ribeiro 👋
 
 ![](https://komarev.com/ghpvc/?username=cahribeiro&color=ff69b4)
 
