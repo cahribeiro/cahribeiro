@@ -1,5 +1,7 @@
 ### Hi, 👋
 
+![](https://komarev.com/ghpvc/?username=cahribeiro&color=ff69b4)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahribeiro&layout=compact&show_icons=true&theme=tokyonight" alt="cahribeiro's top languages" />
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cahribeiro&theme=tokyonight)
